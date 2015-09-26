@@ -12,9 +12,9 @@ namespace Calculator
         static void Main(string[] args)
         {
             int lineCount = 0;
-            string userInput;
+            //string userInput;
             Console.WriteLine(lineCount + ">");
-            userInput = Console.ReadLine();
+            //userInput = Console.ReadLine();
 
 
             
