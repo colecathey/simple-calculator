@@ -14,6 +14,7 @@ namespace Calculator
             int lineCount = 0;
             //string userInput;
             Console.WriteLine(lineCount + ">");
+            Console.ReadLine();
             //userInput = Console.ReadLine();
 
 
