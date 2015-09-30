@@ -9,4 +9,3 @@ C:\Users\Rei\Documents\Visual Studio 2015\Projects\simple-calculator\Calculator\
 C:\Users\Rei\Documents\Visual Studio 2015\Projects\simple-calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
 C:\Users\Rei\Documents\Visual Studio 2015\Projects\simple-calculator\Calculator\Calculator\bin\Debug\Calculator.exe
 C:\Users\Rei\Documents\Visual Studio 2015\Projects\simple-calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
-C:\Users\Rei\Documents\Visual Studio 2015\Projects\simple-calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
