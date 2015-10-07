@@ -8,7 +8,7 @@ namespace Calculator
 {
     class Slicer
     {
-        public string inputSlice()
+        public void InputSlice()
         {
             int num1;
             string operand;
@@ -67,7 +67,8 @@ namespace Calculator
 
 
             //place holder
-            return null;
+            //return null;
+            
         }
     }
 }
